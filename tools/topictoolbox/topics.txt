@@ -1,0 +1,182 @@
+                  TOPIC_1	0.01042	                  TOPIC_2	0.01443	                  TOPIC_3	0.01023	                  TOPIC_4	0.04947	
+
+                  Twitter	0.46889	                Goodreads	0.07657	                    BTC-e	0.06480	              Google Maps	0.76696	
+                 LinkedIn	0.11658	                     Bing	0.07466	                 Coinbase	0.05940	                Wikipedia	0.05527	
+          Bing Translator	0.01592	                    Klout	0.05935	                 BitStamp	0.05671	                 Eventful	0.02457	
+                  Mailjet	0.01062	                   GitHub	0.04595	                   Mt Gox	0.05671	                 Freebase	0.01731	
+        Google Ajax Feeds	0.00797	                 Netvibes	0.04404	                 VirCurEx	0.03241	                     Yelp	0.01452	
+                CloudMade	0.00797	               CrunchBase	0.04404	                   mcxNOW	0.02972	              geocoder.ca	0.01117	
+                 7digital	0.00797	               FriendFeed	0.04212	                  Coins-E	0.02972	     Google Custom Search	0.01061	
+   PubNub JavaScript Push	0.00797	                 43Things	0.03638	                  Cryptsy	0.02972	     Google AJAX Language	0.00949	
+                uClassify	0.00532	                  TypePad	0.03447	                 Bitcurex	0.02972	                    Gruvr	0.00838	
+                   Zapier	0.00532	                 Plancast	0.03255	                     Bter	0.02972	            Yahoo Answers	0.00112	
+
+
+                  TOPIC_5	0.02663	                  TOPIC_6	0.01719	                  TOPIC_7	0.03125	                  TOPIC_8	0.02097	
+
+Amazon Product Advertising	0.56092	                  YouTube	0.72450	                 GeoNames	0.14937	                  Twitter	0.58723	
+            Yahoo Answers	0.06325	                       VK	0.01929	                Panoramio	0.14583	              del.icio.us	0.15933	
+     Google Custom Search	0.03630	                   Ribbet	0.01287	      Microsoft Bing Maps	0.09015	                 Facebook	0.05005	
+           Microsoft Bing	0.03526	                PicMonkey	0.01287	                     Yelp	0.07601	     Google Custom Search	0.00923	
+   Google Shopping Search	0.02800	               FotoFlexer	0.01287	       Yahoo Local Search	0.07071	               FeedBurner	0.00923	
+                     Etsy	0.02489	                    Tixik	0.00644	          Weather Channel	0.06718	         Facebook Credits	0.00660	
+Google Translator Toolkit	0.02075	Amazon Product Advertising	0.00323	         Google Translate	0.04420	World Weather Online Time Zone	0.00528	
+              del.icio.us	0.01349	              Hoiio Voice	0.00162	               OpenLayers	0.03978	                     Etsy	0.00396	
+  Google Shopping Content	0.01349	               Yahoo Mail	0.00162	            Yahoo Traffic	0.03713	                   Thrutu	0.00396	
+    Yahoo Term Extraction	0.00934	     Google URL Shortener	0.00162	               Fire Eagle	0.02299	                     Rdio	0.00265	
+
+
+                  TOPIC_9	0.01805	                 TOPIC_10	0.01907	                 TOPIC_11	0.01368	                 TOPIC_12	0.02368	
+
+                  Last.fm	0.34584	                   Flickr	0.58364	              Google Maps	0.15945	                  Netflix	0.10147	
+              MusicBrainz	0.17293	                Wikipedia	0.11008	               FeedBurner	0.07469	                     Bing	0.09914	
+        Spotify Echo Nest	0.09795	     Yahoo Query Language	0.03477	                  Compete	0.06864	                     Yelp	0.06882	
+                  Discogs	0.03062	          Yahoo GeoPlanet	0.02029	               Cafe Press	0.06864	               Yahoo BOSS	0.05366	
+                 Songkick	0.02909	                    Gruvr	0.01160	   Google Webmaster Tools	0.06258	                    Vimeo	0.05249	
+              Bandsintown	0.01991	           Norway Weather	0.01015	Alexa Web Information Service	0.05249	                 CityGrid	0.05249	
+iTunes & App Store Search	0.01838	           Twitter Search	0.00726	              Your Mapper	0.04038	               foursquare	0.04899	
+                 Guardian	0.01685	              IP2Location	0.00726	      Yahoo Site Explorer	0.03029	          Weather Channel	0.04782	
+                 7digital	0.01379	           HotelsCombined	0.00581	                     Bing	0.02424	               SoundCloud	0.04666	
+                     Rdio	0.00767	                 ZoomInfo	0.00581	              Google Talk	0.02424	                   Reddit	0.04083	
+
+
+                 TOPIC_13	0.02012	                 TOPIC_14	0.00860	                 TOPIC_15	0.04030	                 TOPIC_16	0.00990	
+
+           Facebook Graph	0.19493	               AlchemyAPI	0.07066	                  YouTube	0.61802	                   Zillow	0.10044	
+  Facebook Social Plugins	0.15512	               Eventbrite	0.04818	                 Facebook	0.18226	            Yahoo Weather	0.08371	
+        Google App Engine	0.10296	              Bandsintown	0.04497	                Wikipedia	0.03015	          Tropo Scripting	0.06976	
+     Google Custom Search	0.03845	                Semantria	0.02571	               Yahoo BOSS	0.02399	                   Tumblr	0.05581	
+   Google Webmaster Tools	0.03570	                Viralheat	0.02571	                      BBC	0.01851	                 Pushover	0.04745	
+            Google OpenID	0.03433	               BeThereNYC	0.02250	     Yahoo Query Language	0.00686	                   Pusher	0.04466	
+              Grooveshark	0.03159	                Tweetvite	0.02250	              hostip.info	0.00412	           Stack Overflow	0.04187	
+                 Gravatar	0.03021	                 SeatGeek	0.02250	               SecondLife	0.00343	                      BBC	0.03071	
+     Google AJAX Language	0.02884	                 Venteria	0.02250	                 Eventful	0.00275	               Walk Score	0.02792	
+            Tiny-URL Open	0.02747	              Google Font	0.01929	Google Client Authentication	0.00275	                    FedEx	0.02513	
+
+
+                 TOPIC_17	0.02199	                 TOPIC_18	0.04190	                 TOPIC_19	0.04188	                 TOPIC_20	0.01172	
+
+                 Facebook	0.69680	             Google Earth	0.10742	                   Flickr	0.49456	                   Fitbit	0.09425	
+              Google Plus	0.05651	         Google Geocoding	0.10215	              del.icio.us	0.10881	            OpenStreetMap	0.07069	
+        Twitter Streaming	0.02512	       Google Static Maps	0.07711	                  Last.fm	0.06133	                 Forecast	0.04714	
+           TwitterCounter	0.01633	                 geocoder	0.05404	                     eBay	0.05935	                 Airbrake	0.04478	
+           Janrain Engage	0.00755	                    Oodle	0.04152	                     Bing	0.04617	                New Relic	0.04478	
+                      BBC	0.00629	        Google Ajax Feeds	0.04086	               FeedBurner	0.02770	   RunKeeper Health Graph	0.04007	
+             Google Books	0.00629	     Google Visualization	0.03823	               Yahoo BOSS	0.02440	     World Weather Online	0.03300	
+       Google Cloud Print	0.00378	            Google Places	0.03691	        Google Ajax Feeds	0.02177	                 Withings	0.03300	
+                 MapQuest	0.00252	           Google AdSense	0.03296	Google Client Authentication	0.01649	                   Strava	0.02829	
+          What The Trend?	0.00252	                Panoramio	0.03230	                    Skype	0.01188	             MapMyFitness	0.02829	
+
+
+                 TOPIC_21	0.01551	                 TOPIC_22	0.01689	                 TOPIC_23	0.01426	                 TOPIC_24	0.01263	
+
+          Google Calendar	0.10331	                Amazon S3	0.26984	                Bing Maps	0.08908	                 Facebook	0.46340	
+       Google Gmail OAuth	0.09084	    Google AJAX Libraries	0.22732	              Google Plus	0.08327	                  Twitter	0.21860	
+     Google Single SignOn	0.06769	          Google Homepage	0.14719	                     Bing	0.06972	                   Disqus	0.01095	
+           Salesforce.com	0.06413	        Amazon CloudWatch	0.03109	         Google Translate	0.06778	                      Box	0.00439	
+          Google Contacts	0.06413	                MailChimp	0.02128	             Google Books	0.06391	NOAA National Weather Service (NWS)	0.00439	
+              Google Talk	0.05879	         AddThis Services	0.01473	            Google Picasa	0.04649	                 AbeBooks	0.00439	
+                   TripIt	0.04098	                  TwitPic	0.01146	         Bing Maps Search	0.04455	                 MongoLab	0.00439	
+Google Apps Email Migration	0.03920	       MapQuest Geocoding	0.01146	               Yahoo Mail	0.04068	                  Blogger	0.00221	
+      Google Spreadsheets	0.03564	  Library of Congress SRW	0.01146	                   Yandex	0.03874	                    Vimeo	0.00221	
+                 Basecamp	0.03564	          Unofficial IMDb	0.00983	          Google Contacts	0.03487	            OpenStreetMap	0.00221	
+
+
+                 TOPIC_25	0.01622	                 TOPIC_26	0.01586	                 TOPIC_27	0.03069	                 TOPIC_28	0.01885	
+
+                  YouTube	0.22810	                   Twilio	0.61271	           Google AdSense	0.27081	                 Eventful	0.15239	
+               foursquare	0.22810	                 Facebook	0.09575	Google Analytics Managment	0.21593	                 GeoNames	0.12455	
+                     Yelp	0.09874	                   Heroku	0.02265	        Google App Engine	0.10257	               WeatherBug	0.08793	
+                    Yipit	0.02725	                MailChimp	0.01568	           Google AdWords	0.10257	            OpenStreetMap	0.05569	
+                  Expedia	0.02214	          ConstantContact	0.01220	             AddThis Menu	0.03870	                   Zvents	0.03957	
+           HotelsCombined	0.02044	                   Stripe	0.00698	    Google AJAX Libraries	0.02610	                Wikipedia	0.03225	
+ Urban Mapping Mapfluence	0.02044	              Bandsintown	0.00524	   Google Webmaster Tools	0.02430	            Google Places	0.03078	
+ NOAA Climate Data Online	0.02044	                    Ordrx	0.00350	                Widgetbox	0.01530	              IP Location	0.02932	
+            Wolfram Alpha	0.01874	        Broadsoft Xtended	0.00350	            ElasticSearch	0.01260	                ShareThis	0.02492	
+               Walk Score	0.01363	          Direct Textbook	0.00350	            WordPress.org	0.00901	                  Factual	0.02492	
+
+
+                 TOPIC_29	0.01559	                 TOPIC_30	0.02053	                 TOPIC_31	0.02020	                 TOPIC_32	0.01564	
+
+               FriendFeed	0.09213	                   Flickr	0.16679	Amazon Product Advertising	0.18730	                  Dropbox	0.15712	
+                    Vimeo	0.08150	                    Vimeo	0.09820	                  Last.fm	0.14902	                      Box	0.12711	
+                  Viddler	0.08150	            Google Picasa	0.09282	                LyricWiki	0.08067	             Google Drive	0.08298	
+                  Seesmic	0.06733	                  Smugmug	0.08609	                Lyricsfly	0.06563	                SugarSync	0.06356	
+                  Buzznet	0.05848	                 Ipernity	0.04978	iTunes and iTunes Connect	0.05743	            Google Picasa	0.04591	
+                     Kyte	0.05670	                       23	0.04574	                  SeeqPod	0.04239	                    Pixlr	0.03003	
+                   Revver	0.04430	              Dailymotion	0.04305	        ChartLyrics Lyric	0.03966	                     Zoho	0.02650	
+                     Ning	0.04253	              Photobucket	0.04036	               SoundCloud	0.03419	                MediaFire	0.01943	
+               Ustream.TV	0.04076	                 Phanfare	0.03095	                 Rhapsody	0.02462	            DigitalBucket	0.01943	
+               OpenSocial	0.03368	                  TwitPic	0.02691	Amazon Marketplace Web Service	0.02052	    Rackspace Cloud Files	0.01767	
+
+
+                 TOPIC_33	0.01592	                 TOPIC_34	0.02895	                 TOPIC_35	0.01719	                 TOPIC_36	0.01114	
+
+                  DBpedia	0.11623	                  MySpace	0.12400	              Google Maps	0.78073	                   indeed	0.16607	
+                 Freebase	0.08848	                 LinkedIn	0.12018	          Google Checkout	0.00484	                 Facebook	0.08181	
+          Rotten Tomatoes	0.07287	                  Blogger	0.09443	        Windows Live Data	0.00484	                   Zillow	0.07189	
+                   Calais	0.07113	               FriendFeed	0.06200	    Google Maps Elevation	0.00323	                  Groupon	0.04711	
+Google Analytics Managment	0.06940	              Photobucket	0.04865	               Health 2.0	0.00323	                     Vast	0.03720	
+New York Times Article Search	0.04338	                     Bebo	0.04674	             Google Books	0.00162	                   Trulia	0.02729	
+                  Zemanta	0.03818	            Google Picasa	0.04007	iTunes & App Store Search	0.00162	               Yahoo BOSS	0.02481	
+               Thumbalizr	0.03644	               Friendster	0.03625	Google Book Search Book Viewability	0.00162	               Active.com	0.02481	
+             The Movie DB	0.03471	                    Hyves	0.03530	                  RiteTag	0.00162	                   Active	0.01985	
+                   Heroku	0.03124	                      Hi5	0.03244	                   Pebble	0.00162	                    Imgur	0.01985	
+
+
+                 TOPIC_37	0.00855	                 TOPIC_38	0.01675	                 TOPIC_39	0.02089	                 TOPIC_40	0.01689	
+
+        Simply Hired Jobs	0.08404	               Twilio SMS	0.43859	                   GitHub	0.06875	             Shopping.com	0.12757	
+        Bing Maps Geocode	0.07757	                 Facebook	0.08575	               SlideShare	0.05818	      Commission Junction	0.12103	
+            CareerBuilder	0.04527	        Google App Engine	0.07586	           Stack Overflow	0.05553	                Shopzilla	0.08832	
+                Careerjet	0.03557	                 SendGrid	0.03629	                 Dribbble	0.05024	                     CNET	0.06870	
+           Juju Publisher	0.03557	                   Stripe	0.02805	                   Forrst	0.05024	             eBay Finding	0.03763	
+ LinkUp Job Search Engine	0.03557	                   Heroku	0.02475	iTunes & App Store Search	0.03835	Amazon Marketplace Web Service	0.03599	
+                   Bit.ly	0.03234	                MailChimp	0.02145	                    Ohloh	0.03703	            eBay Shopping	0.03436	
+     Google URL Shortener	0.02911	   ESRI ArcGIS JavaScript	0.01321	              Readability	0.03570	        Best Buy Products	0.03272	
+              Hoiio Voice	0.02588	                FanBridge	0.01321	                    Klout	0.03306	                  Syndic8	0.02782	
+                Hoiio SMS	0.02588	    Rackspace Cloud Files	0.00991	                   Meetup	0.03306	                    Oodle	0.02618	
+
+
+                 TOPIC_41	0.01553	                 TOPIC_42	0.03859	                 TOPIC_43	0.01584	                 TOPIC_44	0.01258	
+
+                  TwitPic	0.13513	               foursquare	0.14527	                     eBay	0.62599	           Salesforce.com	0.08125	
+                Wikipedia	0.07291	                Instagram	0.12308	           Microsoft Bing	0.03140	                Amazon S3	0.07247	
+                Instagram	0.07291	                 LinkedIn	0.10448	                    zanox	0.02617	                 SendGrid	0.06588	
+           Facebook Graph	0.06579	                  Last.fm	0.10090	      Microsoft Bing Maps	0.01745	                 Evernote	0.06588	
+                ShareThis	0.04268	                   Tumblr	0.08802	    Yahoo Term Extraction	0.01397	                      Box	0.05930	
+                  Twitgoo	0.04268	                    Vimeo	0.05010	          Amazon SimpleDB	0.01397	             Zendesk Core	0.04612	
+                Feedzilla	0.03913	                   Bit.ly	0.04938	    eBay Product Services	0.00525	                Sugar CRM	0.04173	
+        Google Ajax Feeds	0.03379	               SoundCloud	0.04580	                 Snipshot	0.00525	  Cloud Elements Platform	0.03076	
+                  Lockerz	0.03379	                   Reddit	0.03006	                    Baidu	0.00525	                  Marketo	0.03076	
+         Google Translate	0.03024	         Pinterest Domain	0.02791	           SemanticHacker	0.00525	               ServiceNow	0.03076	
+
+
+                 TOPIC_45	0.02191	                 TOPIC_46	0.00722	                 TOPIC_47	0.02835	                 TOPIC_48	0.01835	
+
+                    FedEx	0.08949	                   Linode	0.03828	          Google Calendar	0.05262	               Amazon EC2	0.26939	
+     USPS Track & Confirm	0.08319	                  Mist.io	0.03445	               Instapaper	0.04872	                Amazon S3	0.11439	
+                   PayPal	0.06302	         Google Cloud DNS	0.03445	            Yahoo Weather	0.04774	                   PayPal	0.06623	
+             UPS Shipping	0.06176	         Google Cloud SQL	0.03445	                   Buffer	0.04774	              Google Maps	0.05720	
+          Google Checkout	0.05168	               Nephoscale	0.03445	                   Pocket	0.04677	Amazon RDS Relational Database Service	0.03764	
+                  Magento	0.04790	             DigitalOcean	0.03445	            WordPress.com	0.04287	Yahoo Related Suggestions	0.02861	
+           ChannelAdvisor	0.03908	  Rackspace Cloud Servers	0.03445	                 Pinboard	0.04190	    Yahoo Term Extraction	0.02259	
+     Endicia Label Server	0.03656	                SoftLayer	0.03445	              Google Talk	0.03995	   Amazon Mechanical Turk	0.02108	
+                     Etsy	0.03152	               foursquare	0.03063	                  Dropbox	0.03800	               Amazon SES	0.02108	
+                  Shopify	0.02900	                OpenStack	0.02681	                 Scoop.it	0.03703	      Aonaware Dictionary	0.01807	
+
+
+                 TOPIC_49	0.00921	                 TOPIC_50	0.03177	
+
+              Google Maps	0.16494	                  Twitter	0.79096	
+              OpenSecrets	0.07199	                   Bit.ly	0.04694	
+   Sunlight Labs Congress	0.06000	              Google Plus	0.01652	
+              GovTrack.us	0.05100	           Janrain Engage	0.00696	
+  New York Times Congress	0.05100	                  Daylife	0.00349	
+Library of Congress Prints & Photographs	0.02402	                   Notifo	0.00349	
+             OpenCongress	0.02402	                  Expedia	0.00175	
+         Follow The Money	0.01502	              Bandsintown	0.00175	
+New York Times Campaign Finance	0.01502	               Eventbrite	0.00175	
+                 MapLight	0.01502	                    Giphy	0.00175	
+
+
